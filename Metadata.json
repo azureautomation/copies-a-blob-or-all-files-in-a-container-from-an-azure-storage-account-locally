@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 5967,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/copies-a-blob-or-all-files-in-a-container-from-an-azure-storage-account-locally/master/download_storage_container.py",
+    "DownloadCount": 1298,
+    "Id": "Copies-a-blob-or-all-files-fa36bb79",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 99,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2018-8-14T00:00:00",
+    "RunbookKind": 9,
+    "RunbookKindString": "Python",
+    "Summary": "Copies a blob or all files in a container from an Azure storage accountto a local directory.",
+    "Title": "Copies a blob or all files in a container from an Azure storage account locally",
+    "UpdatedDate": "2018-8-14T00:00:00",
+    "Url": "https://github.com/azureautomation/copies-a-blob-or-all-files-in-a-container-from-an-azure-storage-account-locally",
+    "UserTags": "Azure Automation, azure storage, Python"
+}
